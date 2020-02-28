@@ -1,0 +1,54 @@
+.tabletengah {
+    padding-left: 200px;
+    padding-top: 10%;
+}
+
+#card {
+    border-radius: 8px;
+    box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.65);
+    height: 410px;
+    margin: 6rem auto 8.1rem auto;
+    width: 329px;
+    margin-top: 200px;
+    background: -webkit-linear-gradient(#2dbd6e,#a6f77b);
+}
+
+#card-content {
+    padding: 12px 44px;
+    color: white;
+}
+#card-title {
+    font-family: "Raleway Thin", sans-serif;
+    letter-spacing: 4px;
+    padding-bottom: 23px;
+    padding-top: 13px;
+    text-align: center;
+}
+.underline-title {
+    background: -webkit-linear-gradient(right, white,white);
+    height: 2px;
+    margin: -1.1rem auto 0 auto;
+    width: 150px;
+}
+
+.label {
+    font-size: 13px;
+    text-align: left;
+    text-decoration: none;
+    float: left;
+    padding-left: 22px;
+}
+
+.label2 {
+    font-size: 13px;
+    text-align: left;
+    text-decoration: none;
+    float: left;
+    padding-left: 22px;
+}
+
+.form-border {
+    background: -webkit-linear-gradient(right, #ffffff, #ffffff);
+    height: 1px;
+    width: 100%;
+}
